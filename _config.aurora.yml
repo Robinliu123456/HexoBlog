@@ -11,7 +11,7 @@
 site:
   subtitle: Youchulu's Blog
   author: 有出路
-  nick: 想好学好前端的有出路同学
+  nick: 正在学好前端的有出路同学
   description:  <div style="text-align:left"><div>👨🏻‍💻一个热爱编程的前端开发程序员</div><div>👩🏻‍🎓南京邮电大学研究生在读</div>🤔生活中的观察者和思考者</div>
 
   link: 'https://juejin.cn/user/2199503148693176'
@@ -53,15 +53,21 @@ authors:
 #！ @docs https://aurora.tridiamond.tech/guide/menu.html
 #! ---------------------------------------------------------------
 menu:
-  About: true
+  About: false
   Tags: true
   Archives: true
+  AboutMe: 
+    name: 'AboutMe'
+    i18n:
+      cn: '关于我'
+      en: 'About Me'
+    path: '/page/about-me'
   Email:
     name: 'Mail Me'
     i18n:
       cn: '联系我'
       en: 'Mail Me'
-    path: 'mailto:code.tridiamond@gmail.com'
+    path: '18143991853@163.com'
   message-board:
     name: 'MessageBoard'
     i18n:
