@@ -95,13 +95,13 @@ theme:
 #! ---------------------------------------------------------------
 
 socials:
-  github: 'https://github.com/TriDiamond'
+  github: 'https://github.com/Robinliu123456'
+  juejin: 'https://juejin.cn/user/1873223546578589'
   twitter: ''
   stackoverflow: ''
-  weibo: 'https://weibo.com/u/7318914058'
-  zhihu: 'https://www.zhihu.com/people/tridiamond'
-  csdn: 'https://blog.csdn.net/TriDiamond6'
-  juejin: 'https://juejin.cn/user/1873223546578589'
+  # weibo: 'https://weibo.com/u/7318914058'
+  # zhihu: 'https://www.zhihu.com/people/tridiamond'
+  csdn: 'https://blog.csdn.net/qq_43308275?spm=1010.2135.3001.5343'
   # customs:
   ##! Example:
   ##! --- Using SVG
