@@ -43,10 +43,10 @@ authors:
   #Youchulu:
     name: 有出路
     avatar: https://p3-passport.byteimg.com/img/user-avatar/f82830ca669e2166004e8c0dac1fbb02~180x180.awebp
-    link: https://github.com/TriDiamond
+    link: https://juejin.cn/user/1873223546578589
     description: '想好学好前端的有出路同学'
     socials:
-      github: https://tridiamond.tech
+      github: https://github.com/Robinliu123456
 
 #! ---------------------------------------------------------------
 #! Menu Configs
@@ -125,8 +125,8 @@ socials:
 #! ---------------------------------------------------------------
 site_meta:
   cdn: cn
-  favicon:
-  description: ''
+  favicon: './favicon.ico'
+  description: '正在学好前端的有出路'
   keywords: ''
   author: ''
 
